@@ -1,0 +1,26 @@
+{
+  "name": "js-workshop",
+  "version": "1.0.0",
+  "description": "Systems testing JS week",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EDGENortheastern/JS-workshop.git"
+  },
+  "keywords": [
+    "js",
+    "testing"
+  ],
+  "author": "Katia Punter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EDGENortheastern/JS-workshop/issues"
+  },
+  "homepage": "https://github.com/EDGENortheastern/JS-workshop#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
